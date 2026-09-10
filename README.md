@@ -4,6 +4,18 @@
 
 ![棱间首页](docs/assets/01-home.png)
 
+## 作品截图
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/assets/02-first-puzzle.png" alt="第一关三维谜题"><br><sub>第一关：在可旋转形体上寻找完整路径</sub></td>
+    <td width="50%"><img src="docs/assets/03-guided-path.png" alt="路径提示效果"><br><sub>路径提示：用克制的光线标记可行下一步</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="docs/assets/04-space-collection.png" alt="空间图鉴"><br><sub>空间图鉴：24 个空间与四段递进旅程</sub></td>
+  </tr>
+</table>
+
 ## 作品定位与核心机制
 
 - **三维欧拉路径闭环**：在 24 个手工设计与程序化多面体（正多面体、星形体、递归分形空间）上完成“一笔画”遍历，所有棱边仅且必须经过一次。
